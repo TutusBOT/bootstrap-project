@@ -1,1 +1,1 @@
-# Project to test and play with bootstrap framework
+# Project made to test and play with bootstrap framework
